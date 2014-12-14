@@ -1,4 +1,4 @@
-Spring-MVC-ExtJS-CRUD
+Spring MVC ExtJS CRUD
 =====================
 
-Spring MVC 3 Integration with ExtJS 4 MVC
+<p>A simple tutorial to demonstrate the integration of ExtJS 4 MVC framework with Spring MVC.</p>
